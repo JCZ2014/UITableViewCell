@@ -32,6 +32,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    NSLog(@"dj分支合并测试");
+    
     self.view.backgroundColor = [UIColor whiteColor];
     
     // 1、nib注册
